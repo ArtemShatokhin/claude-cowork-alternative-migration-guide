@@ -1,0 +1,14 @@
+version: 2
+project: claude-cowork-migration
+image: kortix/base:latest
+
+agents:
+  migration-planner:
+    file: agents/migration-planner.md
+    connectors: all
+
+triggers:
+  - slug: weekly-migration-review
+    type: cron
+    cron: "0 9 * * 1"
+    prompt: Review the open migration tasks in this repo, update the plan, and open a change request.
