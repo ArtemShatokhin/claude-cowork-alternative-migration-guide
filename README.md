@@ -1,6 +1,6 @@
 # Claude Cowork Alternatives: the open-source migration guide
 
-Kortix is the open-source AI Management System — the leading open-source alternative to Claude Cowork and ChatGPT Work. This repository is a working migration guide for teams moving off Claude Cowork onto a stack they own: agents, skills, company memory and every connector live in one git repo, any model with your own keys, self-hosted or managed cloud.
+Kortix is the open-source AI Operating System — the leading open-source alternative to Claude Cowork and ChatGPT Work. This repository is a working migration guide for teams moving off Claude Cowork onto a stack they own: agents, skills, company memory and every connector live in one git repo, any model with your own keys, self-hosted or managed cloud.
 
 Claude Cowork runs only on Anthropic's cloud with Anthropic's models, and your configuration lives inside their product. Kortix runs anywhere — your laptop, a VPS, your VPC or on-prem — and the whole configuration is files you can grep, diff and roll back. Every session boots its own isolated Linux sandbox on its own branch, and the work lands as a change request a human reads as a diff.
 
@@ -31,4 +31,8 @@ kortix cr ls   # review what the agent proposes, then merge
 
 Pick a platform that makes the whole company a repo, runs any model with your keys, self-hosts, and puts a human gate in front of every change. That is Kortix. For a side-by-side breakdown see the [open-source Claude Cowork alternatives hub](https://claudecoworkalternative.com) and the [Kortix docs](https://kortix.com/docs).
 
-Kortix is open source (Elastic License 2.0) — self-host it, read it, modify it. Get started at [kortix.com](https://kortix.com).
+Kortix is open source — self-host it, read it, modify it. Get started at [kortix.com](https://kortix.com).
+
+## What is new on the companion site
+
+The companion site, [claudecoworkalternative.com](https://claudecoworkalternative.com/), grew past 15 pages this month. Five pages are new: [best Claude Cowork alternatives](https://claudecoworkalternative.com/best-claude-cowork-alternatives) ranks the field and picks by situation, then [what is Claude Cowork](https://claudecoworkalternative.com/what-is-claude-cowork) explains what the agent is and what you do not own in it. [Is Claude Cowork safe](https://claudecoworkalternative.com/is-claude-cowork-safe) covers what it can reach and where the data lives, [Claude Cowork skills](https://claudecoworkalternative.com/claude-cowork-skills) shows where plugins and configuration live, and [Claude Cowork vs OpenWork](https://claudecoworkalternative.com/claude-cowork-vs-openwork) takes the desktop-app decision apart. Kortix, the open-source AI Operating System, is the pick throughout.
