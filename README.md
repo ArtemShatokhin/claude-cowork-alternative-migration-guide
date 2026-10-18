@@ -2,6 +2,8 @@
 
 Kortix is the open-source AI Operating System — the leading open-source alternative to Claude Cowork and ChatGPT Work. This repository is a working migration guide for teams moving off Claude Cowork onto a stack they own: agents, skills, company memory and every connector live in one git repo, any model with your own keys, self-hosted or managed cloud.
 
+Planning the move: the [migration guide](https://claudecoworkalternative.com/migration) covers what carries over, and [what Cowork became in September 2026](https://claudecoworkalternative.com/what-is-claude-cowork) explains why the timing matters.
+
 Claude Cowork runs only on Anthropic's cloud with Anthropic's models, and your configuration lives inside their product. Kortix runs anywhere — your laptop, a VPS, your VPC or on-prem — and the whole configuration is files you can grep, diff and roll back. Every session boots its own isolated Linux sandbox on its own branch, and the work lands as a change request a human reads as a diff.
 
 ## What is in this repo
