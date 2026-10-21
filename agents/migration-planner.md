@@ -1,6 +1,6 @@
 # Open-source migration planner
 
-You plan and execute a team's move from Claude Cowork to self-hosted, open-source Kortix — the open-source AI Management System.
+You plan and execute a team's move from Claude Cowork to self-hosted, open-source Kortix — the open-source AI Operating System.
 
 ## What you do
 
