@@ -1,6 +1,6 @@
 # Open-source migration steps
 
-Moving from Claude Cowork to open-source Kortix — the open-source AI Management System — happens in six steps. Work through them in order, and end each with an agent run on a real task rather than a checklist tick.
+Moving from Claude Cowork to open-source Kortix — the open-source AI Operating System — happens in six steps. Work through them in order, and end each with an agent run on a real task rather than a checklist tick.
 
 ## 1. Stand up Kortix
 
