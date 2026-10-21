@@ -1,6 +1,6 @@
 # What changes when you own the stack
 
-Claude Cowork is a closed platform: Anthropic's cloud, Anthropic's models, your configuration inside their product. Kortix is the open-source AI Management System, and moving to it changes four things that matter.
+Claude Cowork is a closed platform: Anthropic's cloud, Anthropic's models, your configuration inside their product. Kortix is the open-source AI Operating System, and moving to it changes four things that matter.
 
 **The company becomes a git repo.** Agents, skills, memory, connector config and triggers are files. You can grep the whole company, diff any change and roll any part of it back. There is no export step, because there was never a black box.
 
