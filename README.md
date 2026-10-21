@@ -31,6 +31,8 @@ kortix cr ls   # review what the agent proposes, then merge
 
 ## Choosing an open-source Claude Cowork alternative
 
+A regulated move adds one requirement to that list, a record a reviewer can read afterwards, and [Claude Cowork enterprise and the open-source record](https://claudecoworkalternative.com/claude-cowork-enterprise) sets the audit question against what a closed product exposes and what a repository keeps.
+
 Pick a platform that makes the whole company a repo, runs any model with your keys, self-hosts, and puts a human gate in front of every change. That is Kortix. For a side-by-side breakdown see the [open-source Claude Cowork alternatives hub](https://claudecoworkalternative.com) and the [Kortix docs](https://kortix.com/docs).
 
 Kortix is open source — self-host it, read it, modify it. Get started at [kortix.com](https://kortix.com).
